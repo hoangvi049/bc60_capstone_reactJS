@@ -1,0 +1,3 @@
+.carousecarousel-indicators li::marker{
+    display: none;
+}

@@ -1,0 +1,12 @@
+.carts-content .td-img{
+    width: 20%;
+}
+
+.carts-content .td-img img{
+    max-width: 50%;
+}
+
+.carts-content .button-buy{
+    display: flex;
+    justify-content: flex-end;
+}

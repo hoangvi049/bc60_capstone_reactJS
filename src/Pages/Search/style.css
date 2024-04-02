@@ -1,0 +1,31 @@
+
+.form-search input{
+
+
+width: 40%!important;
+display: inline;
+margin-right: 5%;
+border-radius: 4px;
+background: rgba(33, 33, 33, 0.08);
+border: 0px;
+}
+
+.form-search button{
+    color: #ffffff;
+    background-color:rgba(98, 0, 238, 1) ;
+    border-radius: 50px;
+    width: 10%;
+    font-size: 1em;
+}
+
+.result-search h1{
+    background:linear-gradient(to bottom, #f21299, #d200a1, #aa00a9, #7800b0, #1b02b5) ;
+    color: #ffffff;
+    margin-bottom: 5%;
+}
+
+.result-search .button-content  a{
+    background-color:#9DE167 ;
+    color: white;
+    border-radius: 0%;
+}

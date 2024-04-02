@@ -1,0 +1,36 @@
+ .product h1{
+    width:50% ;
+    color: #ffffff;
+    background: linear-gradient(to bottom, #f21299, #d200a1, #aa00a9, #7800b0, #1b02b5); ;
+}
+.card{
+    background:#F8F8F8 ;
+}
+.card-body p{
+    color: #CBC9C9;
+}
+.card-img-top{
+    position: relative;
+}
+.favorite-icon{
+    position:absolute;
+    right: 5%;
+    top: 5%;
+
+}
+.button-content {
+    background-color:#DEDDDC ;
+}
+.button-content a{
+    background-color:#9DE167 ;
+    color: white;
+    border-radius: 0%;
+}
+.button-content a:hover{
+    background-color: slategray;
+}
+
+.card-title h4{
+    text-decoration: none!important;
+
+}

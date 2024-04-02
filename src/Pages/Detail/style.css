@@ -1,0 +1,28 @@
+.detail-img img {
+    width: 100%;
+    background:#F8F8F8 ;
+ 
+}
+
+.detail-content{
+    padding-left: 10%;
+}
+.detail-content h5{
+    color: 
+    #1ED90E;
+}
+.detail-price{
+    color: red;
+}
+.detail-quantity h4{
+    text-align: center;
+}
+.detail-quantity .btn{
+    color: #ffffff;
+    background: linear-gradient(to bottom, #6181f3, #6887f4, #6f8cf4, #7592f5, #7c97f5);
+}
+.add-btn{
+    color: #ffffff;
+    background:linear-gradient(to right, #f21299, #d200a1, #aa00a9, #7800b0, #1b02b5); ;
+
+}

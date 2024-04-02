@@ -1,0 +1,27 @@
+
+.footer { 
+    background-color: rgba(217, 217, 217, 1);
+    color: 
+    rgba(0, 0, 0, 1);
+} 
+
+.footer-content h2 { 
+    color: 
+    rgba(0, 0, 0, 1)f; 
+} 
+
+.footer-content h5, 
+.footer-content p, 
+.footer-links a { 
+    color: 
+    rgba(0, 0, 0, 1); 
+} 
+
+.footer-links a:hover { 
+    text-decoration: underline; 
+} 
+
+.footer hr { 
+    background-color: 
+    rgba(0, 0, 0, 1); 
+} 
